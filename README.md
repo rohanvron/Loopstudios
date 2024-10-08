@@ -55,5 +55,5 @@ This project helped me improve my skills in:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rohanvron)
+- Frontend Mentor - [@rohanvron](https://www.frontendmentor.io/profile/rohanvron)
 
